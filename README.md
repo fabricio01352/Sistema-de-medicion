@@ -4,3 +4,6 @@ Este sistema tiene como proposito medir masas grandes (carros) mediante sensores
 Arquitectura sencilla de cliente servidor. 
 
 ESP 32 CLIENTE -> LECTURA DE DATOS -> BACKEND -> BASE DE DATOS 
+
+
+La administracion se hara mediante un tablero sencillo Kanban en Jira
